@@ -24,6 +24,7 @@ public void validate_get_status_code(){
 
 
 
+
         when().
                 get("/get").
                 then().
